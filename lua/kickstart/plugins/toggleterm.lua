@@ -12,5 +12,6 @@ return {
       end
     end,
     open_mapping = [[<C-\>]], -- or { [[<c-\>]], [[<c-¥>]] } if you also use a Japanese keyboard.
+    direction = 'vertical',
   },
 }
